@@ -1,0 +1,15 @@
+table,th,td{
+    border:1px solid black
+
+}
+body{
+    background-image:
+    url('https://www.barradvisory.com/wp-content/uploads/2022/02/Lisa-Gelobter.jpeg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    background-color:red;
+}
+table{
+    background-color:red
+}

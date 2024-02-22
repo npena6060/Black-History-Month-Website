@@ -1,0 +1,15 @@
+table,th,td{
+    border:1px solid black
+
+}
+body{
+    background-image:
+    url('https://s3.amazonaws.com/elpha-imgs/social_cards/afc3cdfc65875bdf55b5f761605447342988aeb9.jpg?1551214865');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    background-color:red;
+}
+table{
+    background-color:red
+}
